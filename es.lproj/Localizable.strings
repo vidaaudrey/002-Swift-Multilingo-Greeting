@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  Multi-Lingo Greeting
+
+  Created by Audrey Li on 3/13/15.
+  Copyright (c) 2015 Shomigo. All rights reserved.
+*/
+APP_NAME="Swift Multi-lingo Saludo";
+MY_GREETING="¡hola!";
+Image_Name="bg-es";
+PLAY_BTN_TEXT="Play";
+LAN_ERROR="Language not available";
