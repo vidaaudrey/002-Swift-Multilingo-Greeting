@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>A1E0F898-48B0-4D8C-9BF3-17F327E8195A</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Multi-Lingo Greeting</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>AEEEDF4DD370D4C380700E78809569F8EC5C1A05</key>
+		<string>https://github.com/vidaaudrey/002.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Multi-Lingo Greeting.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>AEEEDF4DD370D4C380700E78809569F8EC5C1A05</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/vidaaudrey/002.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>AEEEDF4DD370D4C380700E78809569F8EC5C1A05</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>AEEEDF4DD370D4C380700E78809569F8EC5C1A05</string>
+			<key>IDESourceControlWCCName</key>
+			<string>002</string>
+		</dict>
+	</array>
+</dict>
+</plist>
