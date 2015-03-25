@@ -49,7 +49,7 @@
       debugDocumentVersioning = "YES"
       allowLocationSimulation = "YES"
       showNonLocalizedStrings = "YES"
-      language = "es"
+      language = "en"
       region = "ES">
       <BuildableProductRunnable
          runnableDebuggingMode = "0">
